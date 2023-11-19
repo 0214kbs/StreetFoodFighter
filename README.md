@@ -13,19 +13,10 @@
 <img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/7c5dbdf3-a4c6-4254-bf4c-f24f1e2d1280" width="200px">
 </div>
 
-## 목차
-1. [개요](##)
-2. [팀원 소개](#)
-3. [서비스 화면](##)
-4. [개발 환경](#)
-5. [설계 문서](#)
-6. [기술 소개](#)
-
 
 ## 1. 개요
 > <b>프로젝트 기간</b> : 202310/09 ~ 2023/11/17 <br>
 > <b>참고자료 </b> : 🎞 [UCC](https://www.youtube.com/watch?v=F7RfIP8jiGM)
-📃 [최종발표 PPT](url들어갈자리 google docs)
 <br>
 
 ## 2. 팀원 소개
