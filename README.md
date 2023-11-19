@@ -10,7 +10,7 @@
 
 포장 주문 접수 | 지역별 통계 정보 제공 | :triangular_flag_on_post: 깃발을 활용한 수요 조사
 
-<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/41c31137-64ac-4a4b-992b-0ff4e0c1514a" width="200px">
+<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/7c5dbdf3-a4c6-4254-bf4c-f24f1e2d1280" width="200px">
 </div>
 
 ## 목차
@@ -39,29 +39,30 @@
 ### 손님
 | **내 근처 가게 조회** | **날짜별 펀딩 가능한 깃발 조회** | **주문하기** |
 | :------: | :------: | :------: |
-|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/071d4071-c51e-48a8-9176-84c8d6828a8a">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/bc1e345d-d33d-4af0-b660-162ad14e7aec">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/ed2c0892-dc4a-4e86-9fd9-84aaff455452">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/e7ba42fb-2e6d-4b99-be9c-0b789094779c">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/daa90d33-da58-47ee-a8be-83683a88f2a6">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/fcbab704-4b03-4339-8846-1c1058369fb4">|
+
 
 | **펀딩 성공시 주문하기** | **리뷰하기** | **주문 & 펀딩 & 리뷰 내역 조회** |
 | :------: | :------: | :------: |
-|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/f6ab0dad-bb89-4584-862a-614ec872c70a">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/29dd930d-1ec6-492a-978d-ef1d61dbb30f">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/a9ca4087-bc58-48dd-a855-e8ab5385267d">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/082d390c-7968-401a-9c95-c437da302713">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/e306cd34-08bf-4807-90b9-f9e008a9efa9">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/afbbb7c5-2841-4942-82e4-903b9365b19b">|
 
 | **파이터 등급** | **원해요 선택** | **충전하기** |
 | :------: | :------: | :------: |
-|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/56d1641e-3681-46d6-b541-dba0aba6a063">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/cf2f7c4c-a916-4644-bd75-f4c50e1af2a8">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/8551b7d2-3ed6-46bf-90b7-09f47fdab327">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/e1d03836-d495-4ca7-80b8-e32ac4e3bfaf">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/c2d18c75-adc5-4ac3-bd57-156696596696">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/f51f4c11-9c53-480a-94e7-5dff6dcf68a2">|
 <br>
 
 ### 사장님
 | **영업 시작** | **상품 관리** | **카테고리 설정** |
 | :------: | :------: | :------: |
-|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/3a7bad80-e5d7-44aa-9a9a-3d60290e1781">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/df6cdbd2-a558-4572-b6b4-8f35e44ce70c">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/7c066bd0-86e5-44b7-be9d-061dbd071d97">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/60d55358-5a5f-4ea6-b35f-765e51bd3da6">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/ae12d521-9dee-476a-a072-71313d088ec1">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/da2e99eb-91cb-4997-80fc-2e0af44169ef">|
 
 | **펀딩 깃발 관리** | **주문 목록** | **지역별 원해요 통계 조회** |
 | :------: | :------: | :------: |
-|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/c53bdfce-1b53-4722-82cb-9930bfb09aba">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/f9ccf715-9281-40ab-b166-943112b9b46a">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/94d9b1b5-e51d-4023-9521-b61dd36de5f4">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/4dfa96fa-d354-461d-85ab-d186a7f1e15c">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/6276b82d-ff1f-4e96-90dd-6574ca3abfb5">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/5baaef7e-68bf-4471-a9a1-a819d17685d4">|
 
 | **영업 종료** |
 | :------: | 
-|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/890e9eeb-a871-4365-8316-8d83dc6c7fb8" width="308px">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/c2275adb-2a59-4998-a34f-271963d64d36" width="308px">|
 <br>
 
 ## 4. 개발 환경
@@ -112,10 +113,9 @@
 ## 5. 설계 문서
 
 ### ○ ERD
-![스푸파](https://github.com/0214kbs/StreetFoodFighter/assets/87002218/8fcb6317-fe02-48f8-ad55-2b32a1fa6dce)
-
+![erd](https://github.com/0214kbs/StreetFoodFighter/assets/87002218/abaa3fc0-e0d0-42a0-9ce6-190c35e62128)
 ### ○ 시스템 아키텍처
-![스푸파_아키텍쳐](https://github.com/0214kbs/StreetFoodFighter/assets/87002218/e1c96aac-bcaa-4250-ad95-c9a9fdfb699e)
+![스푸파_아키텍쳐](https://github.com/0214kbs/StreetFoodFighter/assets/87002218/cf0ac7ec-f172-47de-9717-4dae4bb414af)
 
 <br>
 
