@@ -10,12 +10,12 @@
 
 포장 주문 접수 | 지역별 통계 정보 제공 | :triangular_flag_on_post: 깃발을 활용한 수요 조사
 
-<img src="/uploads/f37f870f6068a3dcb79f5b0c706cf7d1/image_29.png" width="200px">
+<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/41c31137-64ac-4a4b-992b-0ff4e0c1514a" width="200px">
 </div>
 
 ## 목차
-1. [개요](#)
-2. [서비스 화면](#)
+1. [개요](##)
+2. [서비스 화면](##)
 3. [기술 소개](#)
 4. [개발 환경](#)
 5. [설계 문서](#)
@@ -31,29 +31,29 @@
 ### 손님
 | **내 근처 가게 조회** | **날짜별 펀딩 가능한 깃발 조회** | **주문하기** |
 | :------: | :------: | :------: |
-|<img src="/uploads/63cad4d356e4dc0306c1edc3f5bba56b/_1_손님_내근처주문가게보기.gif">|<img src="/uploads/dc06d54066666998005ddbf10316d9c8/_2_손님_날짜기준내근처펀딩가게보기.gif">|<img src="/uploads/1a51be8d403bd088a375eba03431e7d9/_3_손님_주문하기.gif">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/071d4071-c51e-48a8-9176-84c8d6828a8a">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/bc1e345d-d33d-4af0-b660-162ad14e7aec">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/ed2c0892-dc4a-4e86-9fd9-84aaff455452">|
 
 | **펀딩 성공시 주문하기** | **리뷰하기** | **주문 & 펀딩 & 리뷰 내역 조회** |
 | :------: | :------: | :------: |
-|<img src="/uploads/ab2c1e6eca081f09b5acfb905aa18b16/_4_손님_펀딩성공_주문하기.gif">|<img src="/uploads/485323f0717f8866005b99ca88c5be25/_5_손님_리뷰하기.gif">|<img src="/uploads/33b1f4bacdb3a2b1cf63ff117286b91e/_6_손님_주문내역_펀딩내역_리뷰내역.gif">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/f6ab0dad-bb89-4584-862a-614ec872c70a">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/29dd930d-1ec6-492a-978d-ef1d61dbb30f">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/a9ca4087-bc58-48dd-a855-e8ab5385267d">|
 
 | **파이터 등급** | **원해요 선택** | **충전하기** |
 | :------: | :------: | :------: |
-|<img src="/uploads/ba42f2071b9f5f5e31b2cabbf3676268/_7_손님_회원정보_파이터등급안내.gif">|<img src="/uploads/ef845d202b87b54ebf078898ac3ecce2/_8_손님_원해요선택.gif">|<img src="/uploads/f65f49d06a17ad004d37f8350031a36d/_9_손님_충전하기.gif">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/56d1641e-3681-46d6-b541-dba0aba6a063">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/cf2f7c4c-a916-4644-bd75-f4c50e1af2a8">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/8551b7d2-3ed6-46bf-90b7-09f47fdab327">|
 <br>
 
 ### 사장님
 | **영업 시작** | **상품 관리** | **카테고리 설정** |
 | :------: | :------: | :------: |
-|<img src="/uploads/aa138f81e0378a7cb1ffb1b876a7ec45/_1_사장님영업시작.gif">|<img src="/uploads/94fef1c26f0a526c01ddb754a70727a2/_2_사장님상품관리.gif">|<img src="/uploads/52689379ca426b87f06623b45167fbd6/_3_사장님카테고리설정.gif">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/3a7bad80-e5d7-44aa-9a9a-3d60290e1781">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/df6cdbd2-a558-4572-b6b4-8f35e44ce70c">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/7c066bd0-86e5-44b7-be9d-061dbd071d97">|
 
 | **펀딩 깃발 관리** | **주문 목록** | **지역별 원해요 통계 조회** |
 | :------: | :------: | :------: |
-|<img src="/uploads/ab64fca05d68fad97cfbc253a309d7d1/_4_사장님_펀딩깃발관리.gif">|<img src="/uploads/f6639922d80edcb3e99e300e8c71d070/_5_사장님주문목록_주문상태확인_및_변경_.gif">|<img src="/uploads/764d904e40e6805954e6f2233ea9cd46/_6_사장님지역별원해요통계확인.gif">|
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/c53bdfce-1b53-4722-82cb-9930bfb09aba">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/f9ccf715-9281-40ab-b166-943112b9b46a">|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/94d9b1b5-e51d-4023-9521-b61dd36de5f4">|
 
 | **영업 종료** |
-| :------: |
-|<img src="/uploads/5d02fc34381f38f82faf01ad75acf029/_7_사장님_영업종료.gif" width="80%">|
+| :------: | 
+|<img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/890e9eeb-a871-4365-8316-8d83dc6c7fb8" width="308px">|
 <br>
 
 ## 3. 기술 소개
