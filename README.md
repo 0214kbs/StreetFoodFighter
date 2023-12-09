@@ -20,9 +20,16 @@
 <br>
 
 ## 2. 팀원 소개
-|   **Name**   | 황재영👑 |  곽보선  |  강동윤  | 구배성  |  김성인  |  박슬빈  |
-| :----------: | :------: | :------: | :------: | :-----: | :------: | :------: |
-| **Position** | BackEnd  | FrontEnd | BackEnd | BackEnd | BackEnd | BackEnd |
+#### FRONTEND
+|  곽보선  |  
+| :------: | 
+|<img src="https://avatars.githubusercontent.com/u/87002218?v=4" alt="0214kbs" width="100" height="100">|
+
+
+#### Backend
+| 황재영(팀장) | 강동윤  | 구배성  |  김성인  |  박슬빈  |
+| :------: | :------: | :-----: | :------: | :------: |
+|<img src="https://avatars.githubusercontent.com/u/122856412?v=4" alt="hjy" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/91649655?v=4" alt="kdy" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/122859252?v=4" alt="kbs" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/90057208?v=4" alt="ksy" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/74503437?v=4" alt="psb" width="100" height="100">|
 
 <br>
 
@@ -81,6 +88,10 @@
 - eslint: 8.2.0
 - prettier: 3.0.0
 
+### Mobile
+- Flutter
+- inapp_webview
+
 ### 💾 Backend
 - Java : 17
 - MySql : 8.1
@@ -89,9 +100,6 @@
 - Spring Boot : 3.1.5
 - logstash-logback-encoder : 6.3
 
-### Mobile
-- Flutter
-- inapp_webview
 
 ### Infra
 - FCM
