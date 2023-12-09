@@ -1,28 +1,25 @@
-# Street Food Fighter <Frontend>
+# Street Food Fighter : Frontend 
 
 ## 주요 기능
 
 1. 손님을 위한
-
-   - 길거리 음식 포장 주문
-   - 길거리 음식 펀딩 주문
+   - 길거리 음식 포장 / 펀딩 주문
+   - 현재 위치, 주소 검색, 지도 중심 기준으로 영업중/펀딩중 가게 제공
+   - 날짜별, 카테고리별 펀딩 가게 조회 가능
    - 원해요! 서비스
    - 알림(영업시작, 펀딩 현황, 주문 현황 등)
    - 마이페이지
 
-2. 사장님을 위한
+3. 사장님을 위한
    - 포장 주문 접수
    - 깃발(펀딩)을 활용한 수요 조사
-   - 지역별 원해요! 통계 제공
-   - 가게 정보관리, 상품관리
+   - 지역별 원해요!통계 제공
+   - 가게 정보 관리, 상품 관리
    - 일일 정산
 
+<br>
+
 ## 개발 환경
-
-### 💻 IDE
-
-- Visual Studio Code `1.83.0`
-- Android Studio
 
 ### 📱 Dependencies List
 
@@ -42,3 +39,9 @@
 
 - Flutter
 - inapp_webview
+
+### 💻 IDE
+
+- Visual Studio Code `1.83.0`
+- Android Studio
+
