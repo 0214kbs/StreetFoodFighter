@@ -35,7 +35,6 @@
 
 🛩 [BACKEND 상세 README 및 코드](https://github.com/0214kbs/StreetFoodFighter/tree/main/backend)
 
-
 <br>
 
 ## 3. ⚙ 협업 툴
@@ -78,5 +77,17 @@
 |                                                        **영업 종료**                                                        |
 | :-------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/0214kbs/StreetFoodFighter/assets/87002218/c2275adb-2a59-4998-a34f-271963d64d36" width="308px"> |
+
+<br>
+
+## 설계 문서
+
+### ○ ERD
+
+![erd](https://github.com/0214kbs/StreetFoodFighter/assets/87002218/abaa3fc0-e0d0-42a0-9ce6-190c35e62128)
+
+### ○ 시스템 아키텍처
+
+![스푸파_아키텍쳐](https://github.com/0214kbs/StreetFoodFighter/assets/87002218/cf0ac7ec-f172-47de-9717-4dae4bb414af)
 
 <br>

@@ -1,3 +1,5 @@
+# Street Food Fighter <Backend>
+
 ## 개발 환경
 
 ### 💻 IDE
@@ -22,18 +24,6 @@
 - Ubuntu 20.04.6 LTS
 - Elastic Stack : 8.11.0
   <br>
-
-## 설계 문서
-
-### ○ ERD
-
-![erd](https://github.com/0214kbs/StreetFoodFighter/assets/87002218/abaa3fc0-e0d0-42a0-9ce6-190c35e62128)
-
-### ○ 시스템 아키텍처
-
-![스푸파_아키텍쳐](https://github.com/0214kbs/StreetFoodFighter/assets/87002218/cf0ac7ec-f172-47de-9717-4dae4bb414af)
-
-<br>
 
 ## 기술 소개
 
